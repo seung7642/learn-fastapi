@@ -1,5 +1,4 @@
 .idea
 .venv
-migrations
 myapi.db
-alembic.ini
+learn
